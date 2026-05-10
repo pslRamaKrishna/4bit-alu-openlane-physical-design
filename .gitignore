@@ -1,0 +1,9 @@
+runs/
+*.log
+*.tmp
+*.odb
+*.def
+*.lef
+*.gds
+*.mag
+venv/

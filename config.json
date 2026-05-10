@@ -1,0 +1,9 @@
+{
+    "DESIGN_NAME": "alu",
+    "VERILOG_FILES": "dir::src/alu.v",
+    "CLOCK_PORT": "clk",
+    "CLOCK_PERIOD": 10,
+    "FP_CORE_UTIL": 30,
+    "PDK": "sky130A",
+    "STD_CELL_LIBRARY": "sky130_fd_sc_hd"
+}
